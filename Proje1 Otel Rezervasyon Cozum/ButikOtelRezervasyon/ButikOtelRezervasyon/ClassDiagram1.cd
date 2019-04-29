@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ButikOtelRezervasyon.DoubleRoom" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DoubleRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButikOtelRezervasyon.Hotel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEEAAABAIQAAAAIAAABAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Hotel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ButikOtelRezervasyon.HotelReservationApp" Collapsed="true">
+    <Position X="18" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAABACQAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>HotelReservationApp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButikOtelRezervasyon.Program" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButikOtelRezervasyon.Reservation" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAACAAAAAAYAICAAAYAiIACAACIAAAAAAEAAAgA=</HashCode>
+      <FileName>Reservation.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ButikOtelRezervasyon.Room" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACgBAAAQAEEBIAIJBCACCAAAAAAAAAAADAAAA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ButikOtelRezervasyon.SingleRoom" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SingleRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ButikOtelRezervasyon.TwinRoom" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TwinRoom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ButikOtelRezervasyon.ReservationProcedures" Collapsed="true">
+    <Position X="16.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAABAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>ReservationProcedures.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
